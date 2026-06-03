@@ -1,0 +1,1 @@
+DELETE FROM books WHERE genre = 'Tech' AND published_year < 2000;
