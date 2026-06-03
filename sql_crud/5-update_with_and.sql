@@ -1,0 +1,1 @@
+UPDATE books SET stock = stock + 5 WHERE genre = 'Tech' AND published_year < 2000;
